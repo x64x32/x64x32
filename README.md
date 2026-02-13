@@ -1,5 +1,8 @@
-<p style="display: flex; align-items: center; gap: 10px;">
+<p>
   <img src="https://komarev.com/ghpvc/?username=xmorinori&style=for-the-badge" alt="Profile Views" />
+  <a href="https://discord.com/users/1325065206388228173">
+    <img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
+  </a>
 </p>
 
 <!--START_SECTION:waka-->
